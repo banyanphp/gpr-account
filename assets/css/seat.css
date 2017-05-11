@@ -1,0 +1,25 @@
+
+.icon-seat-reserved-ladies{text-decoration:none; display:block; background-image:url(../img/reserved_for_ladies.gif); width:22px; height:19px; background-position:0px 0px; float:left; margin:5px 10px;}
+.icon-seat-reserved-red{text-decoration:none; display:block; background-image:url(../img/booked_seat_img.gif); width:22px; height:19px; background-position:0px 0px; float:left; margin:5px 10px;}
+.icon-seat-ladies-book{
+	text-decoration:none; display:block; background-image:url(../img/ladies_seat_img.gif);
+	    height: 19px;
+    width: 22px;
+    display: inline-block;
+    padding: 0 0 0 0px;
+
+
+}
+.icon-seat-reserved{
+	text-decoration:none; display:block; background-image:    background-image: url(../img/reserved_for_ladies.gif) !important;
+	  
+	
+}
+.icon-seat-ladies{text-decoration:none; display:block; background-image:url(../img/ladies_seat_img.gif); width:22px; height:19px; background-position:0px 0px; float:left; margin:5px 10px;}
+.icon-seat-available{text-decoration:none; display:block; background-image:url(../img/available_seat_img.gif); width:22px; height:19px; background-position:0px 0px; float:left; margin:5px 10px;}
+.icon-seat-selected{text-decoration:none; display:block; background-image:url(../img/selected_seat_img.gif); width:22px; height:19px; background-position:0px 0px; float:left; margin:5px 10px;}
+.icon-seat-booked{text-decoration:none; display:block; background-image:url(../img/booked_seat_img.gif);     height: 19px;
+    width: 22px;
+    display: inline-block;
+    padding: 0 0 0 0px; 
+	}
